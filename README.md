@@ -57,14 +57,6 @@ If you use the original CUT model included in this repo, please cite the followi
   year={2020}
 }
 
-@article{chen2024uni,
-  title={Towards a General-Purpose Foundation Model for Computational Pathology},
-  author={Chen, Richard J and Ding, Tong and Lu, Ming Y and Williamson, Drew FK and Jaume, Guillaume and Chen, Bowen and Zhang, Andrew and Shao, Daniel and Song, Andrew H and Shaban, Muhammad and others},
-  journal={Nature Medicine},
-  publisher={Nature Publishing Group},
-  year={2024}
-}
-
 @misc{ikezogwo2023quilt1m,
       title={Quilt-1M: One Million Image-Text Pairs for Histopathology}, 
       author={Wisdom Oluchi Ikezogwo and Mehmet Saygin Seyfioglu and Fatemeh Ghezloo and Dylan Stefan Chan Geva and Fatwir Sheikh Mohammed and Pavan Kumar Anand and Ranjay Krishna and Linda Shapiro},
@@ -72,5 +64,13 @@ If you use the original CUT model included in this repo, please cite the followi
       eprint={2306.11207},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
+}
+
+@article{chen2024uni,
+  title={Towards a General-Purpose Foundation Model for Computational Pathology},
+  author={Chen, Richard J and Ding, Tong and Lu, Ming Y and Williamson, Drew FK and Jaume, Guillaume and Chen, Bowen and Zhang, Andrew and Shao, Daniel and Song, Andrew H and Shaban, Muhammad and others},
+  journal={Nature Medicine},
+  publisher={Nature Publishing Group},
+  year={2024}
 }
 ```
