@@ -41,3 +41,19 @@ Visualization:
 ```
 python visual.py
 ```
+
+## Citation
+If you use this code for your research, please cite our paper.
+```
+
+```
+
+If you use the original CUT model included in this repo, please cite the following paper.
+```
+@inproceedings{park2020cut,
+  title={Contrastive Learning for Unpaired Image-to-Image Translation},
+  author={Taesung Park and Alexei A. Efros and Richard Zhang and Jun-Yan Zhu},
+  booktitle={European Conference on Computer Vision},
+  year={2020}
+}
+```
