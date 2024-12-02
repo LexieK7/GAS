@@ -27,12 +27,6 @@ python test.py --dataroot ./datasets/FS2FFPE --name FS2FFPE --CUT_mode CUT --pha
 
 ### 2. Deployment of Quality Assessment Model
 
-Modify the code as needed (2.Quality/train.py)：
-```
-dataset = "DATASET PATH"
-visual_model.load_state_dict(torch.load(os.path.join("UNI PATH", "pytorch_model.bin"), map_location="cuda"), strict=True)
-```
-
 Train the Quality Assessment Model:
 ```
 python train.py
