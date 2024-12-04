@@ -26,7 +26,7 @@ python test.py --dataroot ./datasets/FS2FFPE --name FS2FFPE --CUT_mode CUT --pha
 ```
 
 ### 2. Deployment of Quality Assessment Model
-
+#### The paths in the code need to change according to the actual requirements
 Train the Quality Assessment Model:
 ```
 python train.py
