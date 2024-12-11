@@ -44,12 +44,13 @@ python visual.py
 ### 2. Deployment of GAS Platform
 #### [!]The platform is deployed in WINDOWS
 Download [jdk](https://www.oracle.com/cn/java/technologies/downloads/#java8) and install it. 
+Download the [pre-trained model](https://huggingface.co/wisdomik/QuiltNet-B-32/tree/main) and place them in the 3.GAS platform folder.
 
-Go to the directory where the folder resides.
+[CMD]Go to the directory where the folder resides.
 ```
 java -jar sliceViewGadget.jar
 ```
-
+[CMD]
 
 
 
