@@ -1,0 +1,13 @@
+server:
+  port: 8081
+
+python:
+  api:
+    url: 'http://127.0.0.1:5000/'
+
+tile:
+  path: D:/data/
+  syncCount: 5
+
+
+
