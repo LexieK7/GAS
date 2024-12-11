@@ -64,6 +64,7 @@ http://127.0.0.1:8081
 ```
 
 #### [!]The slides' location and port can be modified in the application.yml
+![image](https://github.com/LexieK7/GAS/blob/main/4.Video/GAS.png)
 
 
 ## Citation
