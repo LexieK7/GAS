@@ -41,6 +41,17 @@ Visualization:
 ```
 python visual.py
 ```
+### 2. Deployment of GAS Platform
+#### [!]The platform is deployed in WINDOWS
+Download [jdk](https://www.oracle.com/cn/java/technologies/downloads/#java8) and install it. 
+
+Go to the directory where the folder resides.
+```
+java -jar sliceViewGadget.jar
+```
+
+
+
 
 ## Citation
 If you use this code for your research, please cite our paper.
