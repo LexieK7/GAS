@@ -44,14 +44,26 @@ python visual.py
 ### 2. Deployment of GAS Platform
 #### [!]The platform is deployed in WINDOWS
 Download [jdk](https://www.oracle.com/cn/java/technologies/downloads/#java8) and install it. 
+
 Download the [pre-trained model](https://huggingface.co/wisdomik/QuiltNet-B-32/tree/main) and place them in the 3.GAS platform folder.
+
+The pre-trained generative model is placed in the F2HE_512_fast folder under 3.GAS platform.
 
 [CMD]Go to the directory where the folder resides.
 ```
 java -jar sliceViewGadget.jar
 ```
-[CMD]
+[CMD]Initiation generative model.
+```
+python flask_image_HD.py
+```
 
+Access in the browser.
+```
+http://127.0.0.1:8081
+```
+
+#### [!]The slides' location and port can be modified in the application.yml
 
 
 ## Citation
